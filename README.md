@@ -30,6 +30,6 @@ It's a small sample project of the UI.
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/wpf-profile-ui.git
+git clone https://github.com/Michael99-alt/wpf-profile-ui.git
 cd wpf-profile-ui
 
